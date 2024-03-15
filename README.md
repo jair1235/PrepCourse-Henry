@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba prepcourse de henry
+Este proyecto es una prueba de como crear un repositorio y guardarlo en mi repositorio local
